@@ -1,1 +1,1 @@
-# pdf--to--speech-converter
+# pdf-to-speech-converter
